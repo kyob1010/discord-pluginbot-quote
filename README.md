@@ -4,7 +4,7 @@ plugin for discord-pluginbot, ypu can add quote for many people
 ## Installation
 1. You have to install [discord-pluginbot](https://github.com/kyob1010/discord-pluginbot) to use this product
 2. go to your plugin folder
-3. clone this repo and instll
+3. clone this repo and install
 ```
 git clone https://github.com/kyob1010/discord-pluginbot.git
 cd discord-pluginbot
