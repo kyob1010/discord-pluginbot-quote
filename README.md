@@ -6,8 +6,8 @@ plugin for discord-pluginbot, ypu can add quote for many people
 2. go to your plugin folder
 3. clone this repo and install
 ```
-git clone https://github.com/kyob1010/discord-pluginbot.git
-cd discord-pluginbot
+git clone https://github.com/kyob1010/discord-pluginbot-quote.git
+cd discord-pluginbot-quote
 npm install
 ```
 4. That's it!
