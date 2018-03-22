@@ -1,11 +1,22 @@
 {
-  "name": "quote",
+  "name": "discord-pluginbot-quote",
   "version": "1.0.0",
-  "description": "",
+  "description": "plugin for discord-pluginbot, quote some people",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyob1010/discord-pluginbot-quote.git"
+  },
+  "keywords": [
+    "discordbot"
+  ],
+  "author": "kyob1010",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kyob1010/discord-pluginbot-quote/issues"
+  },
+  "homepage": "https://github.com/kyob1010/discord-pluginbot-quote#readme"
 }
