@@ -1,5 +1,5 @@
 # discord-pluginbot-quote
-plugin for discord-pluginbot, ypu can add quote for many people
+plugin for discord-pluginbot, you can add quote for many people
 
 ## Installation
 1. You have to install [discord-pluginbot](https://github.com/kyob1010/discord-pluginbot) to use this product
